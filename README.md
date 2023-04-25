@@ -15,7 +15,7 @@
   - [🛠 Built With](#built-with)
    
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   
@@ -51,15 +51,7 @@ This is my first Microverse project and the goal here is to master all of the to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-
-- [Live Demo Link](https://batoolfatima2135.github.io/Hello_Microverse/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
